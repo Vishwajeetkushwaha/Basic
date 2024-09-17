@@ -1,2 +1,2 @@
-# Basic
+# MINI PROJECT
 My first file
